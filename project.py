@@ -34,7 +34,7 @@ loss, accuracy = model.evaluate(x_test, y_test)
 
 print(loss)
 print(accuracy)
-
+#
 
 # Plot loss
 plt.figure(figsize=(12, 5))
